@@ -82,7 +82,6 @@ cd snackmaster
 
 ### 2️⃣ Backend Setup
 
-```
 cd backend
 npm install
 ```
